@@ -1,0 +1,288 @@
+{
+  "element": {
+    "sourceTag": "container",
+    "type": "custom",
+    "children": [
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "HOW TO PLAY"
+        ],
+        "properties": {
+          "fontsize": "20",
+          "color": "#00ffff"
+        },
+        "dataUid": "uid-2"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Objective"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00"
+        },
+        "dataUid": "uid-3"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Have the most pieces when the board fills up or no moves remain for either player."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#cccccc",
+          "width": "240"
+        },
+        "dataUid": "uid-4"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Rules"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00"
+        },
+        "dataUid": "uid-5"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Place a piece to outflank opponent pieces between your new piece and an existing one. Outflanked pieces flip to your color."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#cccccc",
+          "width": "240"
+        },
+        "dataUid": "uid-6"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Flanking works in all 8 directions. You must flip at least one piece to play."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#cccccc",
+          "width": "240"
+        },
+        "dataUid": "uid-7"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Strategy"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00"
+        },
+        "dataUid": "uid-8"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Corners never flip - capture them! Avoid cells next to empty corners. Control edges for stability."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#cccccc",
+          "width": "240"
+        },
+        "dataUid": "uid-9"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Controls"
+        ],
+        "properties": {
+          "fontsize": "12",
+          "color": "#ffaa00"
+        },
+        "dataUid": "uid-10"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "Click highlighted cells to place pieces. Use PASS when no moves are available."
+        ],
+        "properties": {
+          "fontsize": "10",
+          "color": "#cccccc",
+          "width": "240"
+        },
+        "dataUid": "uid-11"
+      },
+      {
+        "sourceTag": "text",
+        "type": "custom",
+        "children": [
+          "BACK"
+        ],
+        "properties": {
+          "id": "btn-back",
+          "fontsize": "12",
+          "color": "#ff6666",
+          "backgroundcolor": "#220000",
+          "paddingtop": "6",
+          "paddingbottom": "6",
+          "paddingleft": "20",
+          "paddingright": "20",
+          "borderradius": "4",
+          "borderwidth": "1",
+          "bordercolor": "#ff6666",
+          "margintop": "4"
+        },
+        "dataUid": "uid-12"
+      }
+    ],
+    "properties": {
+      "flexdirection": "column",
+      "gap": "6",
+      "paddingtop": "12",
+      "paddingbottom": "12",
+      "paddingleft": "16",
+      "paddingright": "16",
+      "alignitems": "center"
+    },
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 12,
+        "column": 12
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 2
+      },
+      "end": {
+        "line": 1,
+        "column": 56
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 2
+      },
+      "end": {
+        "line": 2,
+        "column": 54
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 2
+      },
+      "end": {
+        "line": 3,
+        "column": 139
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 2
+      },
+      "end": {
+        "line": 4,
+        "column": 50
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 2
+      },
+      "end": {
+        "line": 5,
+        "column": 180
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 6,
+        "column": 2
+      },
+      "end": {
+        "line": 6,
+        "column": 134
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 7,
+        "column": 2
+      },
+      "end": {
+        "line": 7,
+        "column": 53
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 8,
+        "column": 2
+      },
+      "end": {
+        "line": 8,
+        "column": 155
+      }
+    },
+    "uid-10": {
+      "start": {
+        "line": 9,
+        "column": 2
+      },
+      "end": {
+        "line": 9,
+        "column": 53
+      }
+    },
+    "uid-11": {
+      "start": {
+        "line": 10,
+        "column": 2
+      },
+      "end": {
+        "line": 10,
+        "column": 135
+      }
+    },
+    "uid-12": {
+      "start": {
+        "line": 11,
+        "column": 2
+      },
+      "end": {
+        "line": 11,
+        "column": 226
+      }
+    }
+  }
+}

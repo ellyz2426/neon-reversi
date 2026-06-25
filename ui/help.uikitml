@@ -1,0 +1,13 @@
+<container flexDirection="column" gap="6" paddingTop="12" paddingBottom="12" paddingLeft="16" paddingRight="16" alignItems="center">
+  <text fontSize="20" color="#00ffff">HOW TO PLAY</text>
+  <text fontSize="12" color="#ffaa00">Objective</text>
+  <text fontSize="10" color="#cccccc" width="240">Have the most pieces when the board fills up or no moves remain for either player.</text>
+  <text fontSize="12" color="#ffaa00">Rules</text>
+  <text fontSize="10" color="#cccccc" width="240">Place a piece to outflank opponent pieces between your new piece and an existing one. Outflanked pieces flip to your color.</text>
+  <text fontSize="10" color="#cccccc" width="240">Flanking works in all 8 directions. You must flip at least one piece to play.</text>
+  <text fontSize="12" color="#ffaa00">Strategy</text>
+  <text fontSize="10" color="#cccccc" width="240">Corners never flip - capture them! Avoid cells next to empty corners. Control edges for stability.</text>
+  <text fontSize="12" color="#ffaa00">Controls</text>
+  <text fontSize="10" color="#cccccc" width="240">Click highlighted cells to place pieces. Use PASS when no moves are available.</text>
+  <text id="btn-back" fontSize="12" color="#ff6666" backgroundColor="#220000" paddingTop="6" paddingBottom="6" paddingLeft="20" paddingRight="20" borderRadius="4" borderWidth="1" borderColor="#ff6666" marginTop="4">BACK</text>
+</container>

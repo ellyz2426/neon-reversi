@@ -1,0 +1,10 @@
+<container flexDirection="column" alignItems="center" gap="12" paddingTop="20" paddingBottom="20" paddingLeft="30" paddingRight="30">
+  <text fontSize="28" color="#00ffff">NEON REVERSI</text>
+  <text fontSize="12" color="#888888">Classic Othello in VR</text>
+  <text id="level-display" fontSize="11" color="#ffaa00">Level 1</text>
+  <text id="btn-play" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">PLAY</text>
+  <text id="btn-achievements" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">ACHIEVEMENTS</text>
+  <text id="btn-stats" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">STATS</text>
+  <text id="btn-settings" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">SETTINGS</text>
+  <text id="btn-help" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">HOW TO PLAY</text>
+</container>

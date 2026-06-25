@@ -1,0 +1,15 @@
+<container flexDirection="row" gap="14" paddingTop="6" paddingBottom="6" paddingLeft="14" paddingRight="14" alignItems="center">
+  <container flexDirection="column" alignItems="center" gap="2">
+    <text fontSize="9" color="#888888">BLACK</text>
+    <text id="p1-score" fontSize="18" color="#00ffff">2</text>
+  </container>
+  <container flexDirection="column" alignItems="center" gap="2">
+    <text id="turn-indicator" fontSize="11" color="#ffaa00">BLACK TURN</text>
+    <text id="move-count" fontSize="9" color="#666666">Moves: 4</text>
+  </container>
+  <container flexDirection="column" alignItems="center" gap="2">
+    <text fontSize="9" color="#888888">WHITE</text>
+    <text id="p2-score" fontSize="18" color="#ff33aa">2</text>
+  </container>
+  <text id="btn-pass" fontSize="11" color="#ffcc00" backgroundColor="#332200" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#ffcc00">PASS</text>
+</container>

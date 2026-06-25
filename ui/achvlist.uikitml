@@ -1,0 +1,22 @@
+<container flexDirection="column" gap="4" paddingTop="10" paddingBottom="10" paddingLeft="14" paddingRight="14" alignItems="center">
+  <text fontSize="20" color="#00ffff">ACHIEVEMENTS</text>
+  <text id="ach-count" fontSize="10" color="#ffaa00">0/25 Unlocked</text>
+  <text id="ach-1" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-2" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-3" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-4" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-5" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-6" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-7" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-8" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-9" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-10" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-11" fontSize="9" color="#666666" width="230">-</text>
+  <text id="ach-12" fontSize="9" color="#666666" width="230">-</text>
+  <container flexDirection="row" gap="12" alignItems="center">
+    <text id="btn-prev" fontSize="12" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">&lt;</text>
+    <text id="page-display" fontSize="10" color="#888888">1/3</text>
+    <text id="btn-next" fontSize="12" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">&gt;</text>
+  </container>
+  <text id="btn-back" fontSize="12" color="#ff6666" backgroundColor="#220000" paddingTop="6" paddingBottom="6" paddingLeft="20" paddingRight="20" borderRadius="4" borderWidth="1" borderColor="#ff6666" marginTop="4">BACK</text>
+</container>

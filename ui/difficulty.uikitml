@@ -1,0 +1,10 @@
+<container flexDirection="column" alignItems="center" gap="10" paddingTop="20" paddingBottom="20" paddingLeft="30" paddingRight="30">
+  <text fontSize="22" color="#00ffff">AI DIFFICULTY</text>
+  <text id="btn-easy" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">EASY</text>
+  <text fontSize="10" color="#888888">Random moves</text>
+  <text id="btn-medium" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">MEDIUM</text>
+  <text fontSize="10" color="#888888">Greedy strategy</text>
+  <text id="btn-hard" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">HARD</text>
+  <text fontSize="10" color="#888888">Minimax lookahead</text>
+  <text id="btn-back" fontSize="12" color="#ff6666" backgroundColor="#220000" paddingTop="6" paddingBottom="6" paddingLeft="20" paddingRight="20" borderRadius="4" borderWidth="1" borderColor="#ff6666" marginTop="8">BACK</text>
+</container>

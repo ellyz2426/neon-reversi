@@ -1,0 +1,16 @@
+<container flexDirection="column" gap="4" paddingTop="12" paddingBottom="12" paddingLeft="16" paddingRight="16" alignItems="center">
+  <text fontSize="20" color="#00ffff">STATISTICS</text>
+  <text id="stat-1" fontSize="10" color="#cccccc" width="200">Games: 0</text>
+  <text id="stat-2" fontSize="10" color="#cccccc" width="200">Wins: 0</text>
+  <text id="stat-3" fontSize="10" color="#cccccc" width="200">Losses: 0</text>
+  <text id="stat-4" fontSize="10" color="#cccccc" width="200">Draws: 0</text>
+  <text id="stat-5" fontSize="10" color="#cccccc" width="200">Win Rate: 0%</text>
+  <text id="stat-6" fontSize="10" color="#cccccc" width="200">Best Score: 0</text>
+  <text id="stat-7" fontSize="10" color="#cccccc" width="200">Best Margin: +0</text>
+  <text id="stat-8" fontSize="10" color="#cccccc" width="200">Total Flips: 0</text>
+  <text id="stat-9" fontSize="10" color="#cccccc" width="200">Best Flip: 0</text>
+  <text id="stat-10" fontSize="10" color="#cccccc" width="200">Win Streak: 0</text>
+  <text id="stat-11" fontSize="10" color="#cccccc" width="200">Play Time: 0m</text>
+  <text id="stat-12" fontSize="10" color="#cccccc" width="200">Level: 1</text>
+  <text id="btn-back" fontSize="12" color="#ff6666" backgroundColor="#220000" paddingTop="6" paddingBottom="6" paddingLeft="20" paddingRight="20" borderRadius="4" borderWidth="1" borderColor="#ff6666" marginTop="4">BACK</text>
+</container>

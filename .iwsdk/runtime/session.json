@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sessionId": "db7a820c-3cdd-459f-8084-75a674b33644",
+  "workspaceRoot": "/home/hatch/workspace/neon-reversi",
+  "pid": 19442,
+  "port": 5173,
+  "localUrl": "http://localhost:5173/",
+  "networkUrls": [
+    "http://198.19.0.2:5173/"
+  ],
+  "aiMode": "agent",
+  "aiTools": [
+    "claude"
+  ],
+  "browser": {
+    "status": "connected",
+    "connected": true,
+    "connectedClientCount": 1,
+    "lastTransitionAt": "2026-06-25T20:12:08.271Z"
+  },
+  "registeredAt": "2026-06-25T20:12:03.030Z",
+  "updatedAt": "2026-06-25T20:12:08.271Z"
+}

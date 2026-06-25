@@ -1,0 +1,102 @@
+<container flexDirection="column" alignItems="center" gap="2" paddingTop="6" paddingBottom="6" paddingLeft="6" paddingRight="6">
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655"> </text>
+    <text width="26" height="26" fontSize="11" color="#556655">A</text>
+    <text width="26" height="26" fontSize="11" color="#556655">B</text>
+    <text width="26" height="26" fontSize="11" color="#556655">C</text>
+    <text width="26" height="26" fontSize="11" color="#556655">D</text>
+    <text width="26" height="26" fontSize="11" color="#556655">E</text>
+    <text width="26" height="26" fontSize="11" color="#556655">F</text>
+    <text width="26" height="26" fontSize="11" color="#556655">G</text>
+    <text width="26" height="26" fontSize="11" color="#556655">H</text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">1</text>
+    <text id="c00" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c01" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c02" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c03" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c04" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c05" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c06" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c07" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">2</text>
+    <text id="c10" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c11" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c12" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c13" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c14" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c15" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c16" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c17" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">3</text>
+    <text id="c20" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c21" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c22" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c23" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c24" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c25" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c26" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c27" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">4</text>
+    <text id="c30" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c31" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c32" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c33" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c34" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c35" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c36" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c37" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">5</text>
+    <text id="c40" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c41" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c42" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c43" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c44" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c45" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c46" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c47" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">6</text>
+    <text id="c50" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c51" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c52" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c53" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c54" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c55" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c56" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c57" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">7</text>
+    <text id="c60" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c61" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c62" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c63" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c64" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c65" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c66" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c67" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <container flexDirection="row" gap="2">
+    <text width="26" height="26" fontSize="11" color="#556655">8</text>
+    <text id="c70" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c71" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c72" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c73" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c74" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c75" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c76" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+    <text id="c77" width="26" height="26" fontSize="16" backgroundColor="#0a1a0a" borderRadius="2" borderWidth="1" borderColor="#1a3a1a" color="#444444"> </text>
+  </container>
+  <text id="board-status" fontSize="10" color="#888888" marginTop="4">Click a highlighted cell to play</text>
+</container>

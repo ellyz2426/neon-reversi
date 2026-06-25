@@ -1,0 +1,11 @@
+<container flexDirection="column" alignItems="center" gap="8" paddingTop="16" paddingBottom="16" paddingLeft="24" paddingRight="24">
+  <text fontSize="24" color="#00ffff">GAME OVER</text>
+  <text id="result-text" fontSize="18" color="#ffffff">DRAW</text>
+  <text id="score-text" fontSize="14" color="#aaaaaa">32 - 32</text>
+  <text id="margin-text" fontSize="11" color="#888888">Margin: +0</text>
+  <text id="flips-text" fontSize="11" color="#888888">Pieces flipped: 0</text>
+  <text id="time-text" fontSize="11" color="#888888">Time: 0:00</text>
+  <text id="xp-text" fontSize="11" color="#ffaa00">+0 XP</text>
+  <text id="btn-rematch" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">REMATCH</text>
+  <text id="btn-menu" fontSize="14" color="#ffffff" backgroundColor="#002233" paddingTop="8" paddingBottom="8" paddingLeft="24" paddingRight="24" borderRadius="6" borderWidth="1" borderColor="#00ffff" width="180">MAIN MENU</text>
+</container>

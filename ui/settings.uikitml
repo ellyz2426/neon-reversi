@@ -1,0 +1,22 @@
+<container flexDirection="column" gap="8" paddingTop="14" paddingBottom="14" paddingLeft="20" paddingRight="20" alignItems="center">
+  <text fontSize="20" color="#00ffff">SETTINGS</text>
+  <container flexDirection="row" gap="8" alignItems="center">
+    <text fontSize="12" color="#aaaaaa" width="65">Master</text>
+    <text id="btn-master-down" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">-</text>
+    <text id="master-vol" fontSize="13" color="#ffffff" width="45">80%</text>
+    <text id="btn-master-up" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">+</text>
+  </container>
+  <container flexDirection="row" gap="8" alignItems="center">
+    <text fontSize="12" color="#aaaaaa" width="65">SFX</text>
+    <text id="btn-sfx-down" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">-</text>
+    <text id="sfx-vol" fontSize="13" color="#ffffff" width="45">80%</text>
+    <text id="btn-sfx-up" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">+</text>
+  </container>
+  <container flexDirection="row" gap="8" alignItems="center">
+    <text fontSize="12" color="#aaaaaa" width="65">Theme</text>
+    <text id="btn-theme-prev" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">&lt;</text>
+    <text id="theme-name" fontSize="13" color="#ffffff" width="90">Neon Holodeck</text>
+    <text id="btn-theme-next" fontSize="14" color="#00ffff" backgroundColor="#002233" paddingTop="4" paddingBottom="4" paddingLeft="10" paddingRight="10" borderRadius="4" borderWidth="1" borderColor="#00ffff">&gt;</text>
+  </container>
+  <text id="btn-back" fontSize="12" color="#ff6666" backgroundColor="#220000" paddingTop="6" paddingBottom="6" paddingLeft="20" paddingRight="20" borderRadius="4" borderWidth="1" borderColor="#ff6666" marginTop="6">BACK</text>
+</container>

@@ -1,0 +1,10 @@
+{
+  "build_number": 70,
+  "date": "2026-06-25",
+  "cycle": "pm",
+  "status": "complete",
+  "rounds": 1,
+  "total_minutes": 45,
+  "game": "neon-reversi",
+  "genre": "reversi"
+}
